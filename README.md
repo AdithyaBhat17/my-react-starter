@@ -4,10 +4,10 @@ This is the starter code for my React Web Applications
 
 ### Setup and Get Started
 
-**Clone this repository** - `git clone https://github.com/AdithyaBhat17/my-react-starter.git`  
-**Install Packages** - `npm install`   
-**Start dev server** - `npm start`  
-**Build static files** - `npm run build`  
+Clone this repository - `git clone https://github.com/AdithyaBhat17/my-react-starter.git`  
+Install Packages - `npm install`   
+Start dev server - `npm start`  
+Build static files - `npm run build`  
 
 ### NPM Packages used
 
@@ -19,7 +19,8 @@ This is the starter code for my React Web Applications
 * [style-loader](https://www.npmjs.com/package/style-loader)
 * [html-loader](https://www.npmjs.com/package/html-loader)
 
-    MIT License
+
+#### MIT License
 
     Copyright (c) 2019 Adithya NR  
 
