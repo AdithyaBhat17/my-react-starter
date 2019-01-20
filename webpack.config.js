@@ -32,7 +32,12 @@ module.exports = {
                 //     sourceMap: true,
                 //     minimize: true
                 // }
-            }]
+            },
+        ]
+        },
+        {
+            test: /\.(png|jpg|jpeg)$/,
+            use: ["file-loader"]
         }
         ]
     },
